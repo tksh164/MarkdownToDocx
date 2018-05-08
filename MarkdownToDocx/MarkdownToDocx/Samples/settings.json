@@ -1,0 +1,18 @@
+﻿{
+  "BaseFilePath": "md2docx-template.docx",
+  "BaseFileUserStyleMap": {
+    // "DocumentElement": "StyleIdInDocxDocument"
+    "Heading1": "Heading1",
+    "Heading2": "Heading2",
+    "Heading3": "Heading3",
+    "Heading4": "Heading4",
+    "Heading5": "Heading5",
+    "Heading6": "Heading6",
+    "Paragraph": "Normal",
+    "List": "ListParagraph",
+    "Hyperlink": "Hyperlink",
+    "Table": "ListTable4-Accent6",
+    "Quote": "Quote",
+    "Code": "Code"
+  }
+}
