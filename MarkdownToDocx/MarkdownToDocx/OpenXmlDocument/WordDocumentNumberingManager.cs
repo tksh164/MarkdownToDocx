@@ -59,7 +59,8 @@ namespace MarkdownToDocx.OpenXmlDocument
                     return BulletType.Unordered;
 
                 case '1':
-                    return BulletType.Ordered;
+                    //return BulletType.Ordered;
+                    return BulletType.Unordered;
 
                 default:
                     throw new NotImplementedException(string.Format("Unknown bullet type: {0}", bulletTypeChar));
